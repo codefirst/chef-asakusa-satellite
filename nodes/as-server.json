@@ -1,0 +1,6 @@
+{"run_list":[
+  "build-essential",
+  "mongodb",
+  "git",
+  "asakusasatellite"
+]}
